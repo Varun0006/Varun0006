@@ -176,43 +176,7 @@ A full-stack trading-related application with a separately deployed frontend and
 ---
 
 <div align="center">
-
-## 📊 GITHUB ANALYTICS
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Varun0006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun0006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun0006&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 CONTRIBUTION ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varun0006&bg_color=020617&color=06b6d4&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Sai%20Varun%20-%20GitHub%20Activity" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GITHUB TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=Varun0006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
-
-</div>
-
----
-
-<div align="center">
-
+  
 ## 🐍 MY CONTRIBUTION SNAKE
 
 **Watch the snake travel through my GitHub contribution graph!**
